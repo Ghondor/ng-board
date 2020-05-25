@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "angular-board",
+      "public": "dist/angular-board",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

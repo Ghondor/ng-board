@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-board-1a42d": {
+      "hosting": {
+        "angular-board": [
+          "angular-board-1a42d"
+        ]
+      }
+    }
+  }
+}
